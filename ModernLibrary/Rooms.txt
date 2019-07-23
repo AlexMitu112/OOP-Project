@@ -1,0 +1,14 @@
+101,Individual Room,1
+102,Individual Room,1
+103,Individual Room,1
+201,Individual Room,1
+202,Individual Room,1
+203,Individual Room,1
+301,Individual Room,1
+302,Individual Room,1
+303,Individual Room,1
+401,Individual Room,1
+402,Individual Room,1
+403,Individual Room,1
+316,Group Room,12
+215,Conference Room,200

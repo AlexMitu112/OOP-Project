@@ -1,0 +1,2 @@
+0028-3878,Algorithm,Loper & James L.,English,360.42,2
+0742-6046,Programming!,John Wiley,English,120.0,5
