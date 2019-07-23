@@ -1,4 +1,4 @@
-	To properly test the program, you would first need to install NetBeans on your computer. In this folder you can find an .exe file with NetBeans for Windows.
+	To properly test the program, you would first need to install NetBeans on your computer. 
 	After installing it, you open the project(File->Open Project) . In order to Run it, all you have to do is press the green arrow (top left).	
 	The program starts with the LogIn page. You will notice that you can not enter the application(error message appears) without a set of credentials. 
 Username: Alex
